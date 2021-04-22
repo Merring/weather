@@ -163,7 +163,7 @@ $(document).ready(function(){
 
 
     //"타이틀" 클릭시 모든 정보 사라지게 만듬
-    $("title").click(function(){
+    $(".title").click(function(){
         location.reload();
     });
 
